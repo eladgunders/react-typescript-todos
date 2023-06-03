@@ -23,9 +23,6 @@
     "importsNotUsedAsValues": "error"
   },
   "include": [
-    "src"
-  ],
-  "exclude": [
-    "tests"
+    "src", "tests"
   ]
 }
