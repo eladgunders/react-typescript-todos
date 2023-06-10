@@ -1,1 +1,1 @@
-export { todoListApi } from 'services/todoListApi/api'
+export { todoListApi } from 'services/todo-list-api/api'
